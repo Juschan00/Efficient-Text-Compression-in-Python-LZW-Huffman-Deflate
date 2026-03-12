@@ -1,0 +1,28 @@
+How to Write a Business Report
+A business report is a collection of data and analyses that helps make relevant information easily accessible to a company. There are many different types of business reports, but this guide will show you the basic outline.
+
+Before You Begin:
+
+Think about your audience and their expectations, and plan your report accordingly. For example, are they expecting a formal or informal report? Do they have an understanding of the vocabulary/terms used? Do they require more background information? Do they need to be heavily persuaded?
+What is the purpose of the report? Make sure this is clear.
+Gather and organize your supporting information/data/visuals.
+Focus on the facts.
+Make sure to be clear and concise, so the report is easy for everyone to read and understand.
+Use a professional, standard font in a readable size.
+Components of a Business Report
+Title Page
+Table of Contents: Depending on the length of the report, you might want to consider including a table of contents. This will make finding specific information easier for readers.
+Summary: This section includes a brief overview of the main points of the report and is usually a few sentences to a paragraph in length. If someone were to read this section, they would have an idea of the main takeaways from each section of the report.
+Tip: Even though this is the first section, consider writing this section after you have finished the report. This will help you determine which points are the most important to address.
+Introduction: This section outlines what you will be going over in your report. It includes the main points, chosen report structure, and, most importantly, the objective of your report.
+Body: The body is where you discuss the points of your report in detail. This section is divided by headings that inform your reader what information can be found in the following paragraph/s. The structure of this section will vary depending on the type of report, information/data you are relaying to the company, and whether or not a deep analysis is necessary.
+Examples of headings:
+Methods
+Findings
+Research
+Analysis
+Graphs
+Conclusion: In the conclusion, be sure to briefly summarize all of the main points in the order they were presented in the report.
+Recommendations: This section is where you provide your recommendations or suggestions based on the findings you noted in earlier sections. Indicate the potential benefits for the company to applying your suggestions.
+References: Be sure to cite all sources used in the report in this section.
+Appendices: In the Appendix, you can add relevant documents, surveys, graphs, etc. that you referenced in the report.

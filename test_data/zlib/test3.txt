@@ -1,0 +1,14 @@
+Technology that identifies people at risk of a heart attack in the next 10 years has been hailed as "game changing" by scientists.
+The artificial intelligence (AI) model detects inflammation in the heart that does not show up on CT scans, which involve a combination of X-rays and computer technology.
+A pilot project, supported by NHS England, is running at five hospital trusts in Oxford, Milton Keynes, Leicester, Liverpool and Wolverhampton.
+A decision on its use within the NHS is expected within months.
+Its developer, Oxford University spinout company Caristo Diagnostics, said it was already working to adapt the technology to prevent strokes and diabetes.
+"This technology is transformative and game changing because for the first time we can detect the biological processes that are invisible to the human eye, which precede the development of narrowings and blockages [within the heart]," said Prof Keith Channon, from the University of Oxford.
+As part of the pilot, patients suffering from chest pain who are referred for a routine CT scan, have their scan analysed by Caristo Diagnostics' CaRi-Heart AI platform.
+An algorithm, which detects coronary inflammation and plaque, is then assessed by trained operators to verify the accuracy.
+Research has shown increased inflammation is linked to a higher risk of cardiovascular disease and fatal heart attacks.
+The British Heart Foundation (BHF) estimates approximately 7.6 million people are living with heart disease in the UK and the annual cost to the NHS in England is £7.4bn, according to government figures.
+About 350,000 patients are referred for a cardiac CT scan each year in the UK, said the BHF.
+The Orfan study (Oxford Risk Factors and Non-invasive imaging) involving 40,000 patients and published in the Lancet, found that 80% of people were sent back to primary care without a defined prevention or treatment plan.
+Focusing on that cohort, researchers said they found that if patients had inflammation in their coronary arteries, they had a 20 to 30 times higher risk of dying from a cardiac event over the next 10 years.
+The study, funded by BHF, found that by using the AI technology, 45% of those patients were prescribed medication or encouraged to make lifestyle changes to prevent the risk of future heart attacks.
