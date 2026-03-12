@@ -1,5 +1,3 @@
----
-
 # Efficient Text Compression in Python
 
 ### Comparative Study of LZW, Huffman, and Deflate Algorithms
